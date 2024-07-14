@@ -1,7 +1,7 @@
 
 </div>
 <h1 align="center">Hi 👋, I'm Shivji Agnihotri</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate AI-ML/ Backend Developer from India</h3>
 
 <div align="center" >
 <img align="center" alt="coding" width="50%" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -16,11 +16,11 @@
 <p align="center"> <a href="https://twitter.com/shivjiagnihotri" target="blank"><img src="https://img.shields.io/twitter/follow/shivjiagnihotri?logo=twitter&style=for-the-badge" alt="shivjiagnihotri" /></a> </p>
 
 
-- 🌱 I’m currently working on **Full Stack Web Development**
+- 🌱 I’m currently working on **AI Developer**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, React-redux and Node.js (Basic)**
+- 💬 Ask me about **Python, Machine Learning, AI, Node js, Typescript, Nest Js (Basic)**
 
-- 📫 How to reach me **priyanshu05pawar@gmail.com**
+- 📫 How to reach me **shivjiagnihotri@outlook.com**
 - Portfolio : [shivjiagnihotri.github.io](https://shivjiagnihotri.github.io/)
 
 

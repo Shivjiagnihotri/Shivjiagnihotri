@@ -30,4 +30,4 @@
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivjiagnihotri&show_icons=true&locale=en" alt="shivjiagnihotri" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=shivjiagnihotri](https://github-readme-streak-stats.herokuapp.com?user=Shivjiagnihotri&theme=tokyonight&hide_border=true)&" alt="shivjiagnihotri" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shivjiagnihotri&theme=tokyonight&hide_border=true" alt="shivjiagnihotri" /></p>

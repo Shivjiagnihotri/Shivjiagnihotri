@@ -17,7 +17,8 @@
 - 💬 Ask me about **Python, Machine Learning, AI, Node js, Typescript, Nest Js (Basic)**
 
 - 📫 How to reach me **shivjiagnihotri@outlook.com**
-- Portfolio : [shivjiagnihotri.github.io](https://shivjiagnihotri.github.io/)
+- Portfolio : [shivjiagnihotri.github.io](https://shivjiagnihotri.github.io/Resume/)
+- Website: [Click here to visit](https://shivjiagnihotri-k5c2x2g.gamma.site/)
 
 
 <hr>

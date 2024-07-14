@@ -37,7 +37,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivjiagnihotri" alt="shivjiagnihotri" /></a> </p>
 <hr>
-<p align="center"> <a href="https://twitter.com/shivjiagnihotri" target="blank"><img src="https://img.shields.io/twitter/follow/shivjiagnihotri?logo=twitter&style=for-the-badge" alt="shivjiagnihotri" /></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/shivjiagnihotri" target="blank"><img src="https://img.shields.io/twitter/follow/shivjiagnihotri?logo=twitter&style=for-the-badge" alt="shivjiagnihotri" /></a> </p>
 
 
 - 🌱 I’m currently working on **AI Developer**
